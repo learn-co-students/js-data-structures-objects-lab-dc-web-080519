@@ -35,10 +35,10 @@ You'll be writing four functions:
   - [x] It should delete the `key`/`value` pair for the `key` that was passed in from the `driver` `Object`.
   - [x] This should all not actually mutate the `driver` passed in.
 <!--  -->
-- [ ] `destructivelyDeleteFromDriverByKey()` - this function should
-- [ ] work the same as `deleteFromDriverByKey()` but
-- [ ] it _should_ mutate the `driver` passed in.
-- [ ] Be sure and consider whether dot-notation or bracket-notation might affect your solution.
+- [x] `destructivelyDeleteFromDriverByKey()` - this function should
+- [x] work the same as `deleteFromDriverByKey()` but
+- [x] it _should_ mutate the `driver` passed in.
+- [x] Be sure and consider whether dot-notation or bracket-notation might affect your solution.
 <!--  -->
 
 **HINT**: You might find `deleteFromDriverByKey()` to be a bit hard to write
